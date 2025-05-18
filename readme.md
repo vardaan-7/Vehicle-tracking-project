@@ -1,6 +1,7 @@
 # Vehicle Detection and Tracking System
 
 A computer vision application for detecting, tracking, and monitoring vehicles in video streams. The system tracks vehicle movement, calculates speeds, identifies stationary vehicles, and detects improper parking.
+<img src="sample pictures/1.png" alt="Vehicle Detection" width="400"/>
 
 ## Features
 
